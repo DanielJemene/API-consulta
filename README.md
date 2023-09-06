@@ -6,6 +6,8 @@ Certifique-se de ter as seguintes ferramentas instaladas em seu ambiente de dese
 
 - Java
 - Maven
+- MySQL
+  
 # Configuração
 - Clone este repositório
 - Build da aplicação:
@@ -21,5 +23,5 @@ A documentação da API é gerada automaticamente pelo Swagger e pode ser acessa
 - Swagger UI - Interface interativa do Swagger para explorar os endpoints e testar as operações da API(http://localhost:8080/swagger-ui/index.html).
 
 # Uso
-Você pode começar a usar a API seguindo a documentação do Swagger. Abra o Swagger UI em seu navegador e explore os endpoints disponíveis.
+Você pode começar a usar a API seguindo a documentação do Swagger. Abra o Swagger UI em seu navegador e explore os endpoints disponíveis. Não esqueça de gerar o Token JWT para ter acesso aos endpoints
 
